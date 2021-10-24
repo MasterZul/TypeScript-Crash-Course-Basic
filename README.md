@@ -1,5 +1,7 @@
 # TypeScript-Crash-Course-Basic
  By Traversy Media
+ 
+ Youtube url:`https://www.youtube.com/watch?v=BCg4U1FzODs`
 
 ## Installation
 ### Step 1: 
